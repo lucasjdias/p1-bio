@@ -1,5 +1,26 @@
 /* Your Website Styles */
+body {
+	background: url("../img/skulls.png") #437F60;
 
+
+}
+
+h1{
+	font-family: 'Lobster', cursive;
+	color: #39221E;
+
+	background: red;
+	padding: 20px;
+	border: 10px black dotted;
+	width: 300px;
+	margin: 10px;
+
+}
+
+p{
+	font-family: 'Ubuntu', sans-serif;
+	font-style: italic;
+}
 
 /* Show Grid */
 .showgrid {
