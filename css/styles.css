@@ -6,7 +6,7 @@ body {
 }
 
 h1{
-	font-family: 'Lobster', cursive;
+	font-family: 'Ubuntu', sans-serif;
 	color: #39221E;
 
 	background: red;
@@ -20,6 +20,22 @@ h1{
 p{
 	font-family: 'Ubuntu', sans-serif;
 	font-style: italic;
+}
+
+h3{
+	color: orange;
+
+}
+
+#leadin{
+	color: white;
+	background: green;
+}
+
+.subhead{
+	font-style: italic;
+	margin-left: 30px;
+
 }
 
 /* Show Grid */
